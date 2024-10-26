@@ -20,6 +20,6 @@ resource "aws_instance" "example" {
   instance_type = var.instance_type
 
   tags = {
-    Name = "tarefa1-terraform"
+    Name = "tarefa2-terraform"
   }
 }
