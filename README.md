@@ -10,14 +10,13 @@ Each project has its particularity in the amount of resources, cloud, network, s
 
 The advantage of increasing resources in this way is the guarantee of CI/CD control, cost control and greater control of all allocated resources, creating ease and agility in the process.
 
-## Architecture Overview
+## Infrastructure as Code (IaC)
 
- <img width="2500px" align="right"  src="https://github.com/julianasantimaria/ProjectBD-Conclusion_IFRS/blob/HTML/documents/_ERD-ProjectIFRS-Transactional.drawio.png">
+ <img width="2500px" align="right"  src="https://github.com/julianasantimaria/ProjectsTerraform/blob/HTML/IaC.jpeg">
 
  <br/>
  <br/>
 
-- [Architeture - Transactional Database](https://github.com/julianasantimaria/ProjectBD-Conclusion_IFRS/blob/HTML/documents/_ERD-ProjectIFRS-Transactional.drawio.png)
 
 ## Project Structure
 
