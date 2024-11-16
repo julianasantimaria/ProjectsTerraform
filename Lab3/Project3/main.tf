@@ -43,7 +43,7 @@ resource "aws_instance" "dsa_instance" {
     inline = ["sudo yum update -y", 
               "sudo yum install httpd -y", 
               "sudo systemctl start httpd", 
-              "sudo bash -c 'echo Criando o Segundo Web Server com Terraform na DSA > /var/www/html/index.html'"]
+              "sudo bash -c 'echo Criando o Segundo Web Server com Terraform > /var/www/html/index.html'"]
 
     connection {
       type     = "ssh"
