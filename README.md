@@ -13,7 +13,7 @@ The advantage of increasing resources in this way is the guarantee of CI/CD cont
 Lab2 and Lab3 - These are tool allocation projects in AWS using terraform; <br/>
 Lab4 - Development and implementation of a cloud infrastructure solution using Terraform to host a Data Science (Machine Learning) application on AWS;<br/>
 Lab5 - I created an entire structure integrating S3 tools, with the var.tf file, ECS Elastic, Load Balance, cloudWatch, configurations and creation of VPC and Subnets. In the end generating an HTML page, on AWS;<br/>
-Project1 - In this project, an EMR was allocated, with Apache Flink application, for distributed clustering, IAM configuration and Security Groups. Cluster logs will be stored in S3 on AWS.<br/>
+Project1 - In this project, an EMR was allocated, with Apache Flink application on Hadoop with 3 clusters, for distributed clustering, IAM configuration and Security Groups. Cluster logs will be stored in S3 on AWS.<br/>
 
 ## Infrastructure as Code (IaC)
 
