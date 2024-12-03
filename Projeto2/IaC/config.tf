@@ -17,7 +17,7 @@ terraform {
   backend "s3" {
     encrypt = true
     # Este bucket deve ser criado manualmente
-    bucket  = "dsa-p2-terraform-<id-aws>"
+    bucket  = "dsa-p2-terraform-654654368239"
     key     = "dsa-p2.tfstate"
     region  = "us-east-2"
   }
