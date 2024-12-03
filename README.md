@@ -16,12 +16,12 @@ Lab4 - Development and implementation of a cloud infrastructure solution using T
 <br/><br/>
 Lab5 - I created an entire structure integrating S3 tools, with the var.tf file, ECS Elastic, Load Balance, cloudWatch, configurations and creation of VPC and Subnets. In the end generating an HTML page, on AWS;
 <br/><br/>
-Project1 - Tools and Languages: AWS EMR, Apache Flink, Terraform - AWS.
-Project Functions: Automation of scalable infrastructure for batch and streaming data pipelines with low latency.
+Project1 - Tools and Languages: AWS EMR, Apache Flink, Terraform - AWS.<br/>
+Project Functions: Automation of scalable infrastructure for batch and streaming data pipelines with low latency.<br/>
 Objective: Develop a robust solution for data processing, leveraging AWS EMR and Apache Flink, with IaC provisioning automated via Terraform.
 <br/><br/>
-Project2 - Tools and Languages: Terraform, AWS (EMR), Azure, PySpark, Apache Spark - AWS.
-Project Functions: Automated deployment of a scalable cluster for distributed Machine Learning, Big Data model training, and resource optimization through distributed processing.
+Project2 - Tools and Languages: Terraform, AWS (EMR), PySpark, Apache Spark and Hadoop on AWS.<br/>
+Project Functions: Automated deployment of a scalable cluster for distributed Machine Learning, Big Data model training, and resource optimization through distributed processing.<br/>
 Objective: Train large-scale ML models using PySpark on EMR, ensuring efficient analysis of petabyte-scale data with advanced Data Science practices. All integration and result generation are automated in Terraform.
 <br/><br/>
 
