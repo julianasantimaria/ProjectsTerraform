@@ -25,7 +25,7 @@ Project Functions: Automated deployment of a scalable cluster for distributed Ma
 Objective: Train large-scale ML models using PySpark on EMR, ensuring efficient analysis of petabyte-scale data with advanced Data Science practices. All integration and result generation are automated in Terraform.
 <br/><br/>
 Project3 - Tools and Languages: Terraform, Azure.<br/>
-Project functions: Automated deployment of a scalable cluster.<br/>
+Project functions: Deployment of a VM with network configuration, vnet, subnet, etc. And the creation of Grafh.<br/>
 Objective: Do everything that was done in the previous projects, but now in the Azure cloud. All integration and result generation are automated in Terraform.
 <br/><br/>
 
