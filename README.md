@@ -24,6 +24,10 @@ Project2 - Tools and Languages: Terraform, AWS (EMR), PySpark, Apache Spark and 
 Project Functions: Automated deployment of a scalable cluster for distributed Machine Learning, Big Data model training, and resource optimization through distributed processing.<br/>
 Objective: Train large-scale ML models using PySpark on EMR, ensuring efficient analysis of petabyte-scale data with advanced Data Science practices. All integration and result generation are automated in Terraform.
 <br/><br/>
+Project3 - Tools and Languages: Terraform, Azure.<br/>
+Project functions: Automated deployment of a scalable cluster.<br/>
+Objective: Do everything that was done in the previous projects, but now in the Azure cloud. All integration and result generation are automated in Terraform.
+<br/><br/>
 
 ## Infrastructure as Code (IaC)
 
