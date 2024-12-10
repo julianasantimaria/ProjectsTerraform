@@ -4,7 +4,7 @@ This repository contains a series of Infrastructure as Code files that I made to
 
 ## Overview
 
-There are several individual projects for allocating resources in clouds through code. 
+There are individual projects for allocating resources in clouds through code. 
 
 Each project has its particularity in the amount of resources, cloud, network, subnet, IAM, region of the allocated resource, etc. In some projects, the code may allocate resources to different characteristics at once. 
 
@@ -39,9 +39,9 @@ Objective: Do everything that was done in the previous projects, but now in the 
 
 ## Project Structure
 
-The structuring of this repository is difficult and requires no Frontend, Backend, Data, Data Science or Machine Learning Development.
+The structuring of this repository is difficult and does not require Frontend, Backend, Data, Data Science or Machine Learning development, but within the resources, at times, there are application scripts and ML models, to exemplify the direct allocation of resources with projects or data.
 
-These are evolutionary projects for allocating resources in the cloud through code.
+These are IaC projects for allocating resources in the cloud through code. The other add-ons merely exemplify the possibility of allocating tools that already contain developed projects.
 
 ## Requisites
 
