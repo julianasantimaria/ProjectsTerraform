@@ -10,11 +10,6 @@ Each project has its particularity in the amount of resources, cloud, network, s
 
 The advantage of increasing resources in this way is the guarantee of CI/CD control, cost control and greater control of all allocated resources, creating ease and agility in the process.
 
-Lab2 and Lab3 - These are tool allocation projects in AWS using terraform; 
-<br/><br/>
-Lab4 - Development and implementation of a cloud infrastructure solution using Terraform to host a Data Science (Machine Learning) application on AWS;
-<br/><br/>
-Lab5 - I created an entire structure integrating S3 tools, with the var.tf file, ECS Elastic, Load Balance, cloudWatch, configurations and creation of VPC and Subnets. In the end generating an HTML page, on AWS;
 <br/><br/>
 Project1 - Tools and Languages: AWS EMR, Apache Flink, Terraform - AWS.<br/>
 Project Functions: Automation of scalable infrastructure for batch and streaming data pipelines with low latency.<br/>
