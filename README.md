@@ -28,6 +28,10 @@ Project3 - Tools and Languages: Terraform, Azure.<br/>
 Project functions: Deployment of a VM with network configuration, vnet, subnet, etc. And the creation of Grafh.<br/>
 Objective: Do everything that was done in the previous projects, but now in the Azure cloud. All integration and result generation are automated in Terraform.
 <br/><br/>
+project4 - 
+<br/><br/>
+Project5 - Implementation of a cluster in Databricks using Terraform for infrastructure automation. In this Project 5, I automated the deployment of the cluster, a notebook with a processing script in Python and an execution job.
+<br/><br/>
 
 ## Infrastructure as Code (IaC)
 
